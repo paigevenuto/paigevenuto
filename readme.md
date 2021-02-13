@@ -1,1 +1,1 @@
-<a href="gitpets.herokuapp.com/user/paigevenuto"><img src="gitpets.herokuapp.com/pet/paigevenuto"></a>
+<a href="https://gitpets.herokuapp.com/user/paigevenuto"><img src="https://gitpets.herokuapp.com/pet/paigevenuto"></a>
